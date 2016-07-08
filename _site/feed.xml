@@ -6,8 +6,8 @@
 </description>
     <link>http://www.datascienceafrica.org/dsa2015/</link>
     <atom:link href="http://www.datascienceafrica.org/dsa2015/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jul 2016 17:11:30 +0100</pubDate>
-    <lastBuildDate>Fri, 08 Jul 2016 17:11:30 +0100</lastBuildDate>
+    <pubDate>Fri, 08 Jul 2016 19:40:52 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Jul 2016 19:40:52 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -62,133 +62,6 @@
         <link>http://www.datascienceafrica.org/dsa2015/2015/06/15/day-1.html</link>
         <guid isPermaLink="true">http://www.datascienceafrica.org/dsa2015/2015/06/15/day-1.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Day 1</title>
-        <description>&lt;hr /&gt;
-&lt;ul&gt;
-  &lt;li&gt;day: Tuesday
-date: ‘6’
-month: August
-start: ‘9:30’
-end: ‘10:45’
-title: “&lt;strong&gt;Linear Regression&lt;/strong&gt;”
-pdf: “./assets/session1.pdf”
-ipynb: 
-speaker: “&lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: University of Sheffield
-youtube: QkXvNVMO78A&lt;/li&gt;
-  &lt;li&gt;day: Tuesday
-date: ‘6’
-month: August
-start: ‘11:15’
-end: ‘12:30’
-title: “&lt;strong&gt;Lab Class&lt;/strong&gt;”
-pdf: “./assets/lab0.pdf”
-ipynb: http://nbviewer.ipython.org/github/gpschool/gprs13/blob/master/lab0_gprs13.ipynb
-speaker: “&lt;a href=&quot;http://ric70x7.github.io&quot;&gt;Ricardo Andrade Pacheco&lt;/a&gt; and &lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: University of Sheffield
-youtube: JNu_-E1NszI&lt;/li&gt;
-  &lt;li&gt;day: Wednesday
-date: ‘7’
-month: August
-start: ‘9:30’
-end: ‘10:30’
-title: “&lt;strong&gt;Basis Functions&lt;/strong&gt;”
-pdf: “./assets/session2.pdf”
-ipynb: 
-speaker: “&lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: University of Sheffield
-youtube: PoNbOnUnOao&lt;/li&gt;
-  &lt;li&gt;day: Wednesday
-date: ‘7’
-month: August
-start: ‘10:30’
-end: ‘11:00’
-title: “&lt;strong&gt;Lab Class&lt;/strong&gt;”
-pdf: “./assets/lab0.pdf”
-ipynb: lab_gprs13.ipynb
-speaker: “&lt;a href=&quot;http://ric70x7.github.io&quot;&gt;Ricardo Andrade Pacheco&lt;/a&gt; and &lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: University of Sheffield
-youtube:&lt;/li&gt;
-  &lt;li&gt;day: Wednesday
-date: ‘7’
-month: August
-start: ‘11:30’
-end: ‘12:30’
-title: “&lt;strong&gt;Model Selection and Bayesian Inference&lt;/strong&gt;”
-pdf: “./assets/session2.pdf”
-ipynb: 
-speaker: “&lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: University of Sheffield
-youtube: RJEHuzgHl98&lt;/li&gt;
-  &lt;li&gt;day: Thursday
-date: ‘8’
-month: August
-start: 
-end: 
-title: Eid Holiday
-pdf: 
-ipynb: 
-speaker: 
-institution: 
-youtube:&lt;/li&gt;
-  &lt;li&gt;day: Friday
-date: ‘9’
-month: August
-start: ‘9:30’
-end: ‘10:15’
-title: “&lt;strong&gt;Gaussian Processes I&lt;/strong&gt;”
-pdf: “./assets/session3.pdf”
-ipynb: 
-speaker: “&lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: “ University of Sheffield”
-youtube: BETEUTO3CPM&lt;/li&gt;
-  &lt;li&gt;day: Friday
-date: ‘9’
-month: August
-start: ‘10:15’
-end: ‘11:00’
-title: “&lt;strong&gt;Lab Class&lt;/strong&gt;”
-pdf: “./assets/lab1.pdf”
-ipynb: http://nbviewer.ipython.org/github/gpschool/gprs13/blob/master/labs_gprs13.ipynb
-speaker: “&lt;a href=&quot;http://ric70x7.github.io&quot;&gt;Ricardo Andrade Pacheco&lt;/a&gt; and &lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: University of Sheffield
-youtube:&lt;/li&gt;
-  &lt;li&gt;day: Friday
-date: ‘9’
-month: August
-start: ‘11:30’
-end: ‘12:30’
-title: “&lt;strong&gt;Gaussian Processes II&lt;/strong&gt;”
-pdf: “./assets/session3.pdf”
-ipynb: 
-speaker: “&lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt;”
-institution: “ University of Sheffield”
-youtube: MqgGqEcpsQY&lt;/li&gt;
-  &lt;li&gt;day: Friday
-date: ‘9’
-month: August
-start: ‘14:00’
-end: 
-title: “&lt;strong&gt;Bring Your Own Data&lt;/strong&gt;”
-pdf: 
-ipynb: 
-speaker: “&lt;a href=&quot;http://inverseprobability.com&quot;&gt;Neil Lawrence&lt;/a&gt; and &lt;a href=&quot;http://ric70x7.github.io&quot;&gt;Ricardo Andrade Pacheco&lt;/a&gt;”
-institution: “ University of Sheffield”
-youtube:&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 20 Aug 2013 00:00:00 +0100</pubDate>
-        <link>http://www.datascienceafrica.org/dsa2015/img/gpss2013/2013/08/20/day-1.html</link>
-        <guid isPermaLink="true">http://www.datascienceafrica.org/dsa2015/img/gpss2013/2013/08/20/day-1.html</guid>
-        
-        
-        <category>img</category>
-        
-        <category>gpss2013</category>
         
       </item>
     

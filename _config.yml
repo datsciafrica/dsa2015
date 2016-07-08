@@ -1,38 +1,81 @@
 # Site settings
-title: Workshop on Data Science in Africa, 2015
-email: 
+title: Data Science in Africa,
+year: 2015
+banner: African_elephant_in_Aberdare_NP.JPG
+email: info@datascienceafrica.org
 description: > # this means to ignore newlines until "baseurl:"
   Data Science in Africa Workshop at DeKUT in Nyeri, Kenya.
-baseurl: "/dsa15" # the subpath of your site, e.g. /blog/
-url: "http://gpss.cc" # the base hostname & protocol for your site
+baseurl: "/dsa2015" # the subpath of your site, e.g. /blog/
+url: "http://www.datascienceafrica.org" # the base hostname & protocol for your site
 twitter_username: datascienceshef
 github_username:  SheffieldML
 facebook_page: gaussianprocesssummerschool
+
+twitter_username: datsciAfrica
+logo_url: img/logo.png
+github_username:  datsciafrica
+
+previous:
+  url: /gpss2013/
+  text: | # From here to "school:"
+    <div class="" style="
+                        font-weight: bold; 
+                        font-size: 18px;
+
+                        ">Previous: Gaussian Process School Africa 2013</div>
+    <div>August 6<sup>th</sup>  - August 9<sup>th</sup> 2013</div>
+    <div>Kampala, Uganda</div>
+
+
 analytics:
   google:
-    tracking_id: UA-62991754-1
+    tracking_id: 
 
-youtube:
+video:
   height: 315
   width: 560
+
+school:
+  name: Data Science in Africa School
+  shortname: DSA2015
+  location: Dedan Kimathi University of Technology, Nyeri, Kenya
+  googleformid: 1_rdEQc1X86_59kPhDaELkhIpJMKREovSdVmzPJTZey0
+  dates:		
+  - 2015-06-15
+  - 2015-06-16
+  - 2015-06-17
+  registration:
+    deadline: 2015-05-20
+    open: False
+  draft: False # set to Y if the programme is draft only.
+  roles:
+  - {type: Convener, name: Ciira Maina, url: "https://sites.google.com/site/cwamainadekut/"}
+  - {type: Organizer, name: John Quinn, url: "http://air.ug/~jquinn"}
+  - {type: Organizer, name: Andreas Damianou}
+  - {type: Organizer, name: Neil Lawrence, url: "http://inverseprobability.com"}
 
 conference:
   hosts:
   - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
   organizers:
-  - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/"}
-  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+  - {name: Ciira wa Maina, url: "https://sites.google.com/site/cwamainadekut/", logo: dedan_kimathi.jpg, institute: Dedan Kimathi University of Technology}
+  - {logo: plklogo.png, institute: Pulse Lab Kampala}
+  - {name: John Quinn, url: "http://air.ug/~jquinn/", logo: makerere.png, institute: Makerere University}
+  - {name: Neil Lawrence, url: "http://inverseprobability.com", logo: sheffield.png, institute: University of Sheffield}
   - {name: Andreas Damianou, url: "http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html"}
-  - {name: John Quinn, url: "http://air.ug/~jquinn/"}
   name: Data Science in Africa Workshop
   hosturl: https://sites.google.com/site/dekutdatascienceworkshop2015/
   location: Dedan Kimathi University of Technlogy, Nyeri, Kenya
+  googleformid: 1_rdEQc1X86_59kPhDaELkhIpJMKREovSdVmzPJTZey0
   year: 2015
   month: June
   dates:
-  - {date: 18, day: Thursday, month: June, year: 2015}
-  - {date: 19, day: Friday, month: June, year: 2015}
-  draft: N # set to Y if the programme is draft only.
+  - 2015-06-18
+  - 2015-06-19
+  registration:
+    deadline: 2015-05-20
+    open: False
+  draft: False
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,261 @@
+---
+- day: Monday
+  date: '15'
+  month: June
+  start: '8:00'
+  end: '9:00'
+  title: Arrival and Registration
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: '9:00'
+  end: '9:30'
+  title: Opening Remarks
+  pdf: 
+  ipynb: 
+  speaker: "[Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+  institution: Dedan Kimathi University of Technology
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: 
+  end: 'Day 1: **Introduction and Regression**'
+  title: 
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: '9:30'
+  end: '10:30'
+  title: 'Lecture 1: Introduction to Machine Learning and Data Science'
+  pdf: "./assets/motivation.pdf"
+  ipynb: 
+  speaker: "[Neil Lawrence](http://inverseprobability.com/)"
+  institution: University of Sheffield
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: '10:30'
+  end: '11:30'
+  title: Break
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: '11:00'
+  end: '13:00'
+  title: 'Lecture 2: Regression'
+  pdf: "./assets/regression.pdf"
+  ipynb: 
+  speaker: "[Neil Lawrence](http://inverseprobability.com)"
+  institution: University of Sheffield
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: '13:00'
+  end: '14:00'
+  title: Lunch
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Monday
+  date: '15'
+  month: June
+  start: '14.00'
+  end: '17.00'
+  title: Lab 1 **Regression**
+  pdf: https://github.com/gpschool/dss15/
+  ipynb: http://nbviewer.ipython.org/github/gpschool/dss15/blob/master/index.ipynb
+  speaker: "[Mike Smith](http://michaeltsmith.org.uk), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html),
+    [Neil Lawrence](http://inverseprobability.com/)  and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+  institution: 
+  youtube: 
+- day: Tuesday
+  date: '16'
+  month: June
+  start: 
+  end: 
+  title: "**Classification**"
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+  ! '': 
+- day: Tuesday
+  date: '16'
+  month: June
+  start: '9:00'
+  end: '10:30'
+  title: 'Lecture 3: Classification'
+  pdf: 
+  ipynb: 
+  speaker: "[John Quinn](http://air.ug/~jquinn/)"
+  institution: Makerere University and UN Global Pulse
+  youtube: 
+- day: Tuesday
+  date: '16'
+  month: June
+  start: '10:30'
+  end: '11:30'
+  title: Break
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Tuesday
+  date: '16'
+  month: June
+  start: '11:00'
+  end: '13:00'
+  title: 'Lecture 4: Worked Example: Malaria Parasite Classification'
+  pdf: 
+  ipynb: 
+  speaker: "[John Quinn](http://air.ug/~jquinn/)"
+  institution: Makerere University and UN Global Pulse
+  youtube: 
+- day: Tuesday
+  date: '16'
+  month: June
+  start: '13:00'
+  end: '14:00'
+  title: Lunch
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Tuesday
+  date: '16'
+  month: June
+  start: '14.00'
+  end: '17.00'
+  title: Lab 2
+  pdf: 
+  ipynb: 
+  speaker: "[Mike Smith](http://michaeltsmith.org.uk), [John Quinn](http://air.ug/~jquinn/),[Andreas
+    Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html),[Neil
+    Lawrence](http://inverseprobability.com/) and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+  institution: 
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: 
+  end: 
+  title: "**Unsupervised Learning**"
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: '9:00'
+  end: '10:30'
+  title: 'Lecture 5: Clustering'
+  pdf: 
+  ipynb: 
+  speaker: "[Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+  institution: Dedan Kimathi University of Technology
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: '10:30'
+  end: '11:30'
+  title: Break
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: '11:00'
+  end: '13:00'
+  title: 'Lecture 6: Dimensionality Reduction'
+  pdf: 
+  ipynb: 
+  speaker: "[Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/)"
+  institution: University of Sheffield
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: '13:00'
+  end: '14:00'
+  title: Lunch
+  pdf: 
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: '14.00'
+  end: '17.00'
+  title: Lab 3
+  pdf: 
+  ipynb: 
+  speaker: "[John Quinn](http://air.ug/~jquinn/), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html)
+    and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+  institution: 
+  youtube: 
+- day: Wednesday
+  date: '17'
+  month: June
+  start: '17:00'
+  end: 
+  title: Concluding Remarks
+  pdf: 
+  ipynb: 
+  speaker: "[Neil Lawrence](http://inverseprobability.com/), [John Quinn](http://air.ug/~jquinn/),
+    [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html)
+    and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)"
+  institution: 
+  youtube: 
+- day: Thursday
+  date: '18'
+  month: June
+  start: 
+  end: 
+  title: Data Science in Africa Workshop
+  pdf: "../dsa15/"
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 
+- day: Thursday
+  date: '19'
+  month: June
+  start: 
+  end: 
+  title: Data Science in Africa Workshop
+  pdf: "../dsa15/"
+  ipynb: 
+  speaker: 
+  institution: 
+  youtube: 

@@ -26,16 +26,17 @@
 	<p align='justify'>The school will also involve end-to-end tutorial sessions from professionals walking the participants through a real data analytics problem from data acquisition to data presentation. To benefit from this course participants are encouraged to have some background in programming particularly programming with Python. </p>
 
 	<h4 style="margin-top: 20px">School programme outline:</h4>
-		
+	
 	{% include school_program.html %}
-
+	
 	{% if site.school.registration.open %}
+	{% if site.school.googleformid %}
         <a class="btn btn-default btn-lg" data-toggle="modal" href="http://goo.gl/forms/{{ site.school.googleformid }}" style="float:right; 
 													   /*background-color:white; 
 													   color:#999; */
 													   /*border-color:#e6e6e6*/
 													   ">Register for summer school</a>
-
+	{% endif %}	
         {% else %}
 	<p><i>The summer school is now fully subscribed, and registration has closed.</i></p>
 	{% endif %}

@@ -26,15 +26,6 @@ previous:
     <div>August 6<sup>th</sup>  - August 9<sup>th</sup> 2013</div>
     <div>Kampala, Uganda</div>
 
-
-analytics:
-  google:
-    tracking_id: 
-
-video:
-  height: 315
-  width: 560
-
 school:
   name: Data Science in Africa School
   shortname: DSA2015
@@ -80,3 +71,10 @@ conference:
 # Build settings
 markdown: kramdown
 
+analytics:
+  google:
+    tracking_id: UA-80484960-1
+
+video:
+  height: 315
+  width: 560

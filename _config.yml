@@ -1,6 +1,7 @@
 # Site settings
 title: Data Science in Africa,
 year: 2015
+location: Nyeri, Kenya
 banner: African_elephant_in_Aberdare_NP.JPG
 email: info@datascienceafrica.org
 description: > # this means to ignore newlines until "baseurl:"
